@@ -1,6 +1,6 @@
 ### Olá! Eu sou o João Pedro Nobre Sousa
 
-- 🌱 Estudando JavaScript
+- 🌱 Estudando Angular
 - 📫 Contate-me no email: jpnobreee@gmail.com
 - Téc. em Informática
 - Cursando - **Sistemas de Informações**
