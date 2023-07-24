@@ -6,4 +6,4 @@
 - Cursando - <strong>Sistemas de Informações</strong>
 - Habilidades:
   
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postman,html,css,js,bootstrap,php,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,postman,html,css,js,bootstrap)](https://skillicons.dev)
