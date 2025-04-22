@@ -1,4 +1,4 @@
-# 💫 About Me:
+Hello! I'm João Pedro, a Brazilian Back-End Developer!
 I'm currently a Systems Analysis and Development Student on Unifor.<br>Back-End Developer.<br>Computer Technician.<br>
 
 
